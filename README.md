@@ -1,10 +1,9 @@
 **Marvel Rivals Cheat – Aimbot, ESP, and Unleash Your True Potential.** 🌟 
 
-**Dominate Battles with Infinite Resources, Invincibility, and Combat Mastery!**  
+**Dominate Battles with Aimbot, ESP, and Silent Aim!**  
 
-The **Marvel Rivals Cheat** is an open-source tool designed to empower players in *Marvel Rivals* with **godmode, auto-win mechanics**, and **unlocked hero abilities**, all while evading detection. Whether you want to crush opponents effortlessly, experiment with game mechanics, or skip tedious grinding, this cheat offers seamless enhancements and anti-ban safeguards for a safer, more powerful journey.  
+The **Marvel Rivals Cheat** is an open-source tool designed to empower players in *Marvel Rivals* with **Silent aim, AImbot**, and **ESP**, all while evading detection.  
 
-**[![Download Floware](https://img.shields.io/badge/Download-MarvelRivals%20Cheat-blueviolet)]([https://marvelrivals-cheat.github.io/.github/](https://github.com/KeepIsCoding/FlowareMarvelRivals/releases/download/Source/Floware.exe))**
 
 ✨ **Key Features**:  
 - **Aimbot**: Automatically aim at enemies.  
